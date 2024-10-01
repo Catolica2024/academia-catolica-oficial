@@ -23,7 +23,7 @@ const swiper_docentes = new Swiper('#slider_docentes', {
       spaceBetween: 2
     },
     1100: {
-      slidesPerView: 2
+      slidesPerView: 3
     }
   }
 });
