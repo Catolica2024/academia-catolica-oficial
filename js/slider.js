@@ -14,6 +14,10 @@ const swiper_docentes = new Swiper('#slider_docentes', {
     delay: 5000,
   },
   speed: 1000,
+  navigation: {
+    nextEl: '.swiper-button-next',
+    prevEl: '.swiper-button-prev',
+  },
   breakpoints: {
     650: {
       slidesPerView: 2,
