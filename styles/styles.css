@@ -707,6 +707,11 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
+.bg-gris_catolica_letra {
+  --tw-bg-opacity: 1;
+  background-color: rgb(139 139 139 / var(--tw-bg-opacity));
+}
+
 .object-cover {
   -o-object-fit: cover;
      object-fit: cover;
